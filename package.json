@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@metamask/safe-event-emitter": "^2.0.0",
-    "through2": "^2.0.3"
+    "through2": "^2.0.5"
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "^1.0.6",
